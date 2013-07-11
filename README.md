@@ -47,7 +47,7 @@ Zepto modules are individual files in the "src/" directory.
 </tr></thead>
 <tbody>
   <tr>
-    <th><a href="https://github.com/madrobby/zepto/blob/master/src/polyfill.js#files">polyfill</a></th>
+    <th><a href="https://github.com/orzogen/zepto/blob/master/src/polyfill.js#files">polyfill</a></th>
     <td>✔</td>
     <td>
       Provides String.prototype.trim and Array.prototype.reduce methods
@@ -55,27 +55,27 @@ Zepto modules are individual files in the "src/" directory.
     </td>
   </tr>
   <tr>
-    <th><a href="https://github.com/madrobby/zepto/blob/master/src/zepto.js#files">zepto</a></th>
+    <th><a href="https://github.com/orzogen/zepto/blob/master/src/zepto.js#files">zepto</a></th>
     <td>✔</td>
     <td>Core module; contains most methods</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/madrobby/zepto/blob/master/src/event.js#files">event</a></th>
+    <th><a href="https://github.com/orzogen/zepto/blob/master/src/event.js#files">event</a></th>
     <td>✔</td>
     <td>Event handling via <code>on()</code> &amp; <code>off()</code></td>
   </tr>
   <tr>
-    <th><a href="https://github.com/madrobby/zepto/blob/master/src/detect.js#files">detect</a></th>
+    <th><a href="https://github.com/orzogen/zepto/blob/master/src/detect.js#files">detect</a></th>
     <td>✔</td>
     <td>Provides <code>$.os</code> and <code>$.browser</code> information</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/madrobby/zepto/blob/master/src/fx.js#files">fx</a></th>
+    <th><a href="https://github.com/orzogen/zepto/blob/master/src/fx.js#files">fx</a></th>
     <td>✔</td>
     <td>The <code>animate()</code> method</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/madrobby/zepto/blob/master/src/fx_methods.js#files">fx_methods</a></th>
+    <th><a href="https://github.com/orzogen/zepto/blob/master/src/fx_methods.js#files">fx_methods</a></th>
     <td></td>
     <td>
       Animated <code>show</code>, <code>hide</code>, <code>toggle</code>,
